@@ -2,8 +2,3 @@ NAME
 EMALE
 TEXT
 DATE AND TIME
-<----->
-olga
-jlga@mail.ru
-hjk
-02 February 2021 17:16:39
